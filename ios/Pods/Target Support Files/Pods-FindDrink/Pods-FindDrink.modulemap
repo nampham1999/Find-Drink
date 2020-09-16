@@ -1,0 +1,6 @@
+module Pods_FindDrink {
+  umbrella header "Pods-FindDrink-umbrella.h"
+
+  export *
+  module * { export * }
+}
